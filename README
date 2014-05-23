@@ -1,0 +1,9 @@
+Este proyecto es el primer uso con Node.js. Se utiliza:
+- Express 4.x
+- Mongoosse 3.x
+- Jade 1.x
+- Express-session 1.x
+
+No se incluye el directorio node-modules, en package.json estan los repositorios. Para instalar correr el comando: npm install
+ 
+Los ejemplos son tomados del libro: Mongoosse for Aplplication Develoment de Simon Holmes, pero se adapto a la version de Express 4.x y se realizaron ajustes para mejorar la distribución de los archivos. 
